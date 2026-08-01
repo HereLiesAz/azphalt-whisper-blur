@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Blurs the caption when the voice drops to a whisper and sharpens it as they speak up.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
